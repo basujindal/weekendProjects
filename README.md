@@ -1,4 +1,4 @@
-# OpenCV
+# Weekend Projects
 **HSV RANGE FINDER:**
 This code uses cv2.createTrackbar to adjust the values of h,s,v and find an optimal range to mask  particular color.
 
@@ -10,3 +10,6 @@ Plot the Mandelbrot Set using Matplotlib.
 
 **Conway Life:**
 Visualize conway life using python and Matplotlib.
+
+**Flood Fill**
+Implementation of floodfill algorithm for MicroMouse Competition.
